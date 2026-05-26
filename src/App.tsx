@@ -1,10 +1,11 @@
 import GlobalStyles from "./styles/GlobalStyles";
+import Heading from "./ui/Heading";
 function App() {
   return (
     <>
       <GlobalStyles/>
       <div>
-        Hello World
+        <Heading as="h1">Hello World</Heading>
       </div>
     </>
   )
