@@ -22,7 +22,7 @@ const Heading = styled.h1<HeadingProps>`
     font-size: 2rem;
     font-weight: 500;
   `}
-  background-color: lightblue;
+  /* background-color: lightblue; */
   text-align: center;
 `;
 
